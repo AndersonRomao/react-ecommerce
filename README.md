@@ -40,4 +40,4 @@
   &nbsp; &nbsp; &nbsp; &nbsp;
    <img alt="home" src="screenshots/FireShot Capture 004 - React Shop.png" width="40%" align="top">
 </p>
-# react-shop
+
